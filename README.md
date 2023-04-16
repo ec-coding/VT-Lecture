@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/rsTfwdc.png" width="80%">
+<img src="https://i.imgur.com/rsTfwdc.png" width="60%">
 </p>
 <p align="center">
 <img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="75%">
