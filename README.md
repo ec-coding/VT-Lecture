@@ -21,9 +21,6 @@
 - Test integration with React.js using either FlushSync or React Router
 
 ## Lessons Learned:
-- EJS (Embedded JavaScript)
-    - Using template engine-specific syntax to generate additional HTML via JavaScript
-
 - CSS
     - Using the `view-transition-name` property to designate element siblings between related pages.
     - Using the `paint: contain` property to have elements remain static between page transitions.
