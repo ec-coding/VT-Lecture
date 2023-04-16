@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://fontmeme.com/temporary/f6cc8591a3986c0432e0ba5f0d4b7926.png" width="30%">
+<img src="https://fontmeme.com/temporary/f6cc8591a3986c0432e0ba5f0d4b7926.png" width="60%">
 </p>
 <p align="center">
 <img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="75%">
