@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/J6o4JHR.png" width="50%">
 </p>
 <p align="center">
-<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="75%">
+<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="90%">
 </p>
 <h2 align="center">A demonstration of the View Transition API and its capabilities</h2>
 
