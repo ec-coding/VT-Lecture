@@ -17,21 +17,17 @@
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
 
 ## Optimizations
-- Add additional update operations to identify & replace additional quote entries.
-- Integrate animations upon html element refresh.
-- Enable mobile-friendly viewports.
+- Review more animation techniques that can be used with the API
+- Test integration with React.js using either FlushSync or React Router
 
 ## Lessons Learned:
 - EJS (Embedded JavaScript)
     - Using template engine-specific syntax to generate additional HTML via JavaScript
 
 - CSS
-    - Experimented with box shadows and background image integration
-    - Tested font imports to simulate those used in the TRON: Legacy film
+    - Using the `view-transition-name` property to designate element siblings between related pages.
+    - Using the `paint: contain` property to have elements remain static between page transitions.
 
 - JavaScript
-    - Database handling using MongoDB integration via MongoClient
-    - Create operations using POST methods to publish user quote entries
-    - Read operations using GET methods to render results on .ejs sheet 
-    - Update operations using PUT methods to swap specific quote entries with a designated replacement
-    - Delete operations using DELETE methods to remove replacement quotes
+    - Working with the path interception functions that are integral to the API 
+    - Progressive enhancement functions for runtime environments incompatible with view transitions
