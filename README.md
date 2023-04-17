@@ -6,7 +6,8 @@
 </p>
 <h2 align="center">A demonstration of the View Transition API and its capabilities</h2>
 <p align="center">
-A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.
+A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. 
+<br>Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.
 </p>
 <p align="center">
 <h3 align="center"><a href="https://vt-demo.cyclic.app/" target="_blank" rel="noreferrer">Website</a></h3>
