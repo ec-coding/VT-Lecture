@@ -11,6 +11,7 @@ A overview of the View Transition API and its capabilities. Used for a presentat
 </p>
 <p align="center">
 <h3 align="center"><a href="https://vt-demo.cyclic.app/" target="_blank" rel="noreferrer">Website</a></h3>
+<h3 align="center"><a href="https://github.com/ec-coding/VT-Lecture/blob/main/Shared%20Element%20Transitions.pdf" target="_blank" rel="noreferrer">Slides</a></h3>
 </p>
 
 ## How It's Made:
